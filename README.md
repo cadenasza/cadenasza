@@ -1,10 +1,9 @@
 ## Olá, me chamo Leonardo Cadena 👋
 
 - 📚 Atualmente estudando HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
-##
 
-### Status do GitHub
+
+### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadenasza&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
