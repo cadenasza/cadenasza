@@ -1,6 +1,6 @@
 ## Olá, me chamo Leonardo Cadena 👋
 
-- 📚 Atualmente estudando HTML, CSS e JavaScript
+- 📚 Atualmente estudando o front end
 
 
 ### Status
