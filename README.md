@@ -25,6 +25,11 @@
   
 <br/>
 
+## Commits
+![Snake animation](https://github.com/cadenasza/cadenasza/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
 ## :computer: Áreas de interesse
 
 ### • Desenvolvedor Front end 
@@ -32,10 +37,10 @@
 
 ##
 
+
 # Redes sociais
 <a href="https://www.linkedin.com/in/leonardo-cadena-8303112b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/_leocadena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://portfolio-iota-red-44.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
 
-![Snake animation](https://github.com/JenniferDaleffi/JenniferDaleffi/blob/output/github-contribution-grid-snake.svg)
