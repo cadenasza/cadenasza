@@ -22,6 +22,7 @@
 [![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=**openjdk**&logoColor=black)]()
 [![Python](https://img.shields.io/badge/Python-007FFF?style=for-the-badge&logo=python&logoColor=yellow)]()
 [![Oracle](https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logo=Oracle&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)]()
 
 <br/>
 
