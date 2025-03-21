@@ -1,6 +1,6 @@
 ## Olá, me chamo Leonardo Cadena 👋
 
-### - 📚 Atualmente estudando o front end, sempre focando em cursos e projetos para aprender cada vez mais!!
+### - 📚 Atualmente estudando o desenvolvimento web, sempre focando em cursos e projetos para aprender cada vez mais!!
 
 
 ## :star: Sobre mim 
