@@ -4,8 +4,8 @@
 
 
 ## :star: Sobre mim 
-### Olá, me chamo Leonardo Cadena de Souza, tenho 18 anos e estou em busca de oportunidades na área de desenvolvimento de software. Minha paixão pela tecnologia e pela programação me levou a focar no desenvolvimento front-end, onde posso utilizar minha criatividade e habilidades técnicas para criar interfaces de usuário (UI) intuitivas e eficientes.Realizo regularmente de cursos online onde exploro diversas linguagens de programação, frameworks e ferramentas essenciais para o desenvolvimento web. 
-  ### Tenho experiência com HTML, CSS, JavaScript, Python, Java, Sql developer, Tailwind, Bootstrap e React. Sou uma pessoa curiosa e determinada, sempre buscando novos desafios que me permitam crescer profissionalmente. Meu objetivo é me tornar um desenvolvedor front-end competente, capaz de contribuir significativamente para projetos inovadores e impactantes.
+### Olá, me chamo Leonardo Cadena de Souza, tenho 19 anos e estou em busca de oportunidades na área de desenvolvimento de software. Minha paixão pela tecnologia e pela programação me levou a focar no desenvolvimento front-end, onde posso utilizar minha criatividade e habilidades técnicas para criar interfaces de usuário (UI) intuitivas e eficientes.Realizo regularmente de cursos online onde exploro diversas linguagens de programação, frameworks e ferramentas essenciais para o desenvolvimento web. 
+  ### Tenho experiência com HTML, CSS, JavaScript, c# e ASP NET, Python, Java, Sql developer, Tailwind, Bootstrap e React. Sou uma pessoa curiosa e determinada, sempre buscando novos desafios que me permitam crescer profissionalmente. Meu objetivo é me tornar um desenvolvedor front-end competente, capaz de contribuir significativamente para projetos inovadores e impactantes.
 
 ##
 
