@@ -133,7 +133,6 @@ Já trabalhei em ambiente de produção com **responsabilidade direta sobre entr
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadenasza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9932CC?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioweb-beta-plum.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocadenasza@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_leocadena/)
 </div>
 
 
